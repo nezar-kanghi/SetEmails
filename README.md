@@ -1,0 +1,1 @@
+Este ejercicio gestiona un conjunto de correos utilizando un hashSet<String> lo cual nos asegura que nop haya emails duplicados. con un menu de consola, el usuario puede registrar emails nuevos, mostrar todos, o buscar existentes con contains(). 
